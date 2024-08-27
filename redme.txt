@@ -1,0 +1,27 @@
+git bash
+
+T.I@Suporte MINGW64 ~
+$ cd DocumentosKeris/
+
+comando criar pasta
+T.I@Suporte MINGW64 ~/DocumentosKeris
+$ mkdir revisao/
+
+verificar pasta
+T.I@Suporte MINGW64 ~/DocumentosKeris
+$ cd revisao/
+
+listar o que tem na pasta
+T.I@Suporte MINGW64 ~/DocumentosKeris/revisao
+$ ls
+
+abrir pasta no vs code
+T.I@Suporte MINGW64 ~/DocumentosKeris/revisao
+$ code
+
+comando pra começar o versionamento
+T.I@Suporte MINGW64 ~/DocumentosKeris/revisao
+$ git init
+Initialized empty Git repository in C:/Users/T.I/DocumentosKeris/revisao/.git/
+
+T.I@Suporte MINGW64 ~/DocumentosKeris/revisao (master)
